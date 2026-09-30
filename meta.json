@@ -1,0 +1,26 @@
+{
+  "repo": "start11-complete",
+  "product": "Start11 Complete",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "system-tools",
+  "topics": [
+    "start11-complete",
+    "start11-desktop",
+    "start11-windows",
+    "system-optimization",
+    "driver-update",
+    "pc-maintenance",
+    "disk-cleanup",
+    "registry-tools",
+    "desktop-utility",
+    "windows-tools",
+    "performance-tuning",
+    "hardware-monitor",
+    "admin-toolkit"
+  ],
+  "site": "zentool.art"
+}
